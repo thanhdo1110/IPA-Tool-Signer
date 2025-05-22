@@ -48,7 +48,7 @@ Explore the app's interface and features through the screenshots below:
 | ![Log Output](img/log.png) |
 
 ## Installation
-1. Download the `.dmg` file from the [Releases](https://ctdogit.ctdotech.site/dothanh1110/IPA-Tool---Signer/releases) page.
+1. Download the `.dmg` file from the [Releases](https://github.com/thanhdo1110/IPA-Tool-Signer/releases/tag/IPA-Tool-Signer) page.
 2. Open the `.dmg` file and drag `IPATool.app` to your Applications folder.
 3. Launch `IPATool.app` from Applications.
 
